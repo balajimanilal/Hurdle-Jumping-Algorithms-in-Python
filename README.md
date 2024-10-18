@@ -31,6 +31,7 @@ In this repository, we explore several solutions to navigate hurdles using Pytho
   - turn_right(): A helper function to perform a right turn by using three left turns.
   - jump(): The main function to guide the turtle over the hurdles.
   - while not at_goal(): This loop ensures the turtle continues until the goal is reached.
+
 **Conditionals:**
   - if wall_in_front(): Checks if a wall is directly in front of the turtle.
   - while wall_on_right(): Checks if there is a wall on the right side.
